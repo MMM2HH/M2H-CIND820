@@ -43,3 +43,9 @@ Python is used for examining and comparing three different Machine Learning algo
 
 # Methodology
 ![image](https://user-images.githubusercontent.com/106894445/176085806-f82614ae-68b9-4b75-add0-52c9714cb08d.png)
+
+# Results and Model Comparison
+TBD
+
+# Study Conclusion
+TBD
