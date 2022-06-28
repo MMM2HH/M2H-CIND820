@@ -37,7 +37,7 @@ Python is used for examining and comparing three different Machine Learning algo
 - xgboost
 
 # Data Preparation
-## Dataset
+## Dataset Description
 ![image](https://user-images.githubusercontent.com/106894445/176085597-a8327d7f-e699-4e1f-b695-642b35b84149.png)
 - isFraud: is the dependant variable
 
