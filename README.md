@@ -38,8 +38,8 @@ Python is used for examining and comparing three different Machine Learning algo
 
 # Data Preparation
 ## Dataset
-![image](https://user-images.githubusercontent.com/106894445/175778904-101c7e29-5b53-4e84-bfac-6290ce7a8927.png)
+![image](https://user-images.githubusercontent.com/106894445/176085597-a8327d7f-e699-4e1f-b695-642b35b84149.png)
 - isFraud: is the dependant variable
 
 # Methodology
-![image](https://user-images.githubusercontent.com/106894445/175778820-e31d5b12-08d5-45fa-948f-e62a1775c065.png)
+![image](https://user-images.githubusercontent.com/106894445/176085806-f82614ae-68b9-4b75-add0-52c9714cb08d.png)
